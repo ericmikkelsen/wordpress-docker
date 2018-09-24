@@ -1,0 +1,6 @@
+# Attempt to load uploaded files from production if they're not in our local version
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule (.*) http://your-site.com/wp-content/uploads/$1
