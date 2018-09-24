@@ -5,7 +5,7 @@ Docker Setup for Wordpress
 
 Copy the `.env.example` file and rename it `.env`
 
-Your .env file has 6 variables, I like to keep everything the same. for example, this file from pierogi heaven
+Your .env file has 5 variables, I like to keep everything the same. for example, this file from pierogi heaven
 
 ```
 PROJECT_ID=pierogi_heaven
