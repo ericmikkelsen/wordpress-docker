@@ -49,7 +49,3 @@ Hopefully. If everything went as planned, you can go to [localhost:8080](http://
 ## Add Themes and Plugins
 
 You can add themes to your themes directory and plugins to your plugins directory.
-
-## Adjusting the wp-config.php (if you want)
-
-If you want to update the wp-config.php uncomment line #34 in your docker-compose.yml
