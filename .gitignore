@@ -63,4 +63,5 @@ typings/
 # wordpress files
 themes/*
 plugins/*
+uploads/*
 wp-config.php
