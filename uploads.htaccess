@@ -3,4 +3,4 @@
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule (.*) http://your-site.com/wp-content/uploads/$1
+RewriteRule (.*) http://boldium.com/wp-content/uploads/$1
